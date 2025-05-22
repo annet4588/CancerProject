@@ -1,6 +1,6 @@
-numpy==1.26.4 --only-binary=numpy
-pandas==2.2.2 --only-binary=pandas
+numpy==1.26.4
+pandas==2.2.2
 plotly==5.20.0
-scikit-learn==1.4.2 --only-binary=scikit-learn
+scikit-learn==1.4.2
 streamlit==1.34.0
 altair<5.0.0
